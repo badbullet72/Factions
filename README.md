@@ -1,2 +1,2 @@
 # Factions
-Trader and ExpansionMod files 
+Trader files 
