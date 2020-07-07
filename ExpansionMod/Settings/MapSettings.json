@@ -1,0 +1,122 @@
+{
+    "EnableMap": 1,
+    "UseMapOnMapItem": 1,
+    "CanCreateMarker": 1,
+    "ShowPlayerPosition": 1,
+    "CanCreatePartyMarkers": 1,
+    "ShowMapStats": 1,
+    "CanCreate3DMarker": 1,
+    "ShowPartyMembersMapMarkers": 1,
+    "ShowServerMarkers": 1,
+    "CanOpenMapWithKeyBinding": 1,
+    "ShowVehicleDebugMarkers": 0,
+    "ServerMarkers": [{
+            "m_IsPartyMarker": 0,
+            "m_Is3DMarker": 0,
+            "m_Text": "Hero Trader",
+            "m_IconIndex": 6,
+            "m_Color": -15282092,
+            "m_Position": [
+                9081,
+                0,
+                8068
+            ]
+        },
+    {
+            "m_IsPartyMarker": 0,
+            "m_Is3DMarker": 0,
+            "m_Text": "Bandit Trader",
+            "m_IconIndex": 9,
+            "m_Color": -15282092,
+            "m_Position": [
+                3702,
+                0,
+                5988
+            ]
+        },
+    {
+            "m_IsPartyMarker": 0,
+            "m_Is3DMarker": 0,
+            "m_Text": "Civillian Trader",
+            "m_IconIndex": 6,
+            "m_Color": -15282092,
+            "m_Position": [
+                8353,
+                0,
+                5990
+            ]
+        },
+	   {
+            "m_IsPartyMarker": 0,
+            "m_Is3DMarker": 0,
+            "m_Text": "Air trader",
+            "m_IconIndex": 10,
+            "m_Color": -15282092,
+            "m_Position": [
+                11883,
+                0,
+                12473
+            ]
+        },
+    {
+            "m_IsPartyMarker": 0,
+            "m_Is3DMarker": 0,
+            "m_Text": "Drug dealer",
+            "m_IconIndex": 3,
+            "m_Color": -15282092,
+            "m_Position": [
+                9289,
+                0,
+                13497
+            ]
+        },
+		{
+            "m_IsPartyMarker": 0,
+            "m_Is3DMarker": 0,
+            "m_Text": "High Tier Gun Dealer",
+            "m_IconIndex": 6,
+            "m_Color": -15282092,
+            "m_Position": [
+                1487.08 ,
+				0 , 
+				10658.9
+            ]
+        },
+	   {
+            "m_IsPartyMarker": 0,
+            "m_Is3DMarker": 0,
+            "m_Text": "Boat trader",
+            "m_IconIndex": 12,
+            "m_Color": -15282092,
+            "m_Position": [
+                13468,
+                0,
+                25441
+            ]
+        },
+    {
+            "m_IsPartyMarker": 0,
+            "m_Is3DMarker": 0,
+            "m_Text": "Boat trader",
+            "m_IconIndex": 12,
+            "m_Color": -15282092,
+            "m_Position": [
+                14434,
+                0,
+                13253
+            ]
+        },		
+    {
+            "m_IsPartyMarker": 0,
+            "m_Is3DMarker": 0,
+            "m_Text": "Boat trader",
+            "m_IconIndex": 12,
+            "m_Color": -15282092,
+            "m_Position": [
+                4088,
+                0,
+                2175
+            ]
+        }
+	]
+}

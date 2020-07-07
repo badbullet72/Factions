@@ -1,0 +1,89 @@
+{
+    "EnableBook": 1,
+    "EnableStatusTab": 1,
+    "EnablePartyTab": 1,
+    "EnableServerInfoTab": 1,
+    "EnableServerRulesTab": 1,
+    "EnableTerritoryTab": 1,
+    "ShowServerSettings": 1,
+    "ServerInfo": {
+        "ServerButtons": [
+            {
+                "IconPath": "set:expansion_iconset image:icon_group",
+                "URL": "https://exp.thurston.pw",
+                "Tooltip": "Feedback",
+                "Color": -1
+            },
+            {
+                "IconPath": "set:expansion_iconset image:icon_discord",
+                "URL": "https://discord.gg/atAGWj3",
+                "Tooltip": "Discord",
+                "Color": -1
+            },
+            {
+                "IconPath": "set:expansion_iconset image:icon_home",
+                "URL": "https://www.google.com",
+                "Tooltip": "Homepage",
+                "Color": -1
+            },
+            {
+                "IconPath": "set:expansion_iconset image:icon_forums",
+                "URL": "https://www.google.com",
+                "Tooltip": "Forums",
+                "Color": -1
+            },
+            {
+                "IconPath": "set:expansion_iconset image:icon_patreon",
+                "URL": "https://www.patreon.com/dayzexpansion",
+                "Tooltip": "Patreon",
+                "Color": -1
+            }
+        ],
+        "ServerSections": [
+            {
+                "HasHeading": 1,
+                "HeadText": "Welcome to our community",
+                "BodyText": "<p>Please take time to study the rules and join our discord for updates on the server as well as meeting other members of the community or just giving server suggestions . Remember to book mark our server to favourites to play again  </p>"
+            },
+            {
+                "HasHeading": 1,
+                "HeadText": "Missions",
+                "BodyText": "<p>Remember to have a radio on you and tuned in correctly to the right channel to recieve missions from the mysterious DR he has many rewards for you if you survive,Also look for photos scattered around the map that could lead you on a treasure hunt .</p>"
+            },
+            {
+                "HasHeading": 1,
+                "HeadText": "Toxic Areas",
+                "BodyText": "<p>Be careful when you see green gas clouds without the right gear and equipment this stuff is deadly and poisonous </p>"
+            }
+        ],
+        "ServerName": "FACTIONS Dayz "
+    },
+    "ServerRules": {
+        "RuleSections": [
+            {
+                "Lable": "General Rules",
+                "RulesPages": [
+                    {
+                        "HeadText": "Rule 1",
+                        "BodyText": "This is a simple test text."
+                    },
+                    {
+                        "HeadText": "Rule 2",
+                        "BodyText": "This is a simple test text."
+                    }
+                ],
+                "PageSections": [
+                    {
+                        "Left": 0,
+                        "Right": 0
+                    },
+                    {
+                        "Left": 0,
+                        "Right": 1
+                    }
+                ]
+            }
+        ]
+    },
+    "ServerLogoPath": "set:expansion_gui_logos image:expansion_logo_black"
+}
